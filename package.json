@@ -17,3 +17,6 @@
     "tar": "^7.5.4"
   }
 }
+"pnpm": {
+  "minimumReleaseAgeExclude": ["oxfmt"]
+}
